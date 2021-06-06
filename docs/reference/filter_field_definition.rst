@@ -209,7 +209,7 @@ NullFilter
         }
     }
 
-The ``inverse`` option can be used to filter values that are not empty.
+The ``inverse`` option can be used to filter values that are not null.
 
 Advanced usage
 --------------
